@@ -1,0 +1,26 @@
+@font-face {
+	font-family: 'FUNGIS';
+	src: url('./FUNGIS/FUNGIS\ Regular.woff2') format('woff2')
+		url('./FUNGIS/FUNGIS\ Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'FUNGIS';
+	src: url('./FUNGIS/FUNGIS\ Bold.woff2') format('woff2')
+		url('./FUNGIS/FUNGIS\ Bold.woff') format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'FUNGIS';
+	src: url('./FUNGIS/FUNGIS\ Heavy.woff2') format('woff2')
+		url('./FUNGIS/FUNGIS\ Heavy.woff') format('woff');
+	font-weight: bolder;
+	font-style: normal;
+	font-display: swap;
+}

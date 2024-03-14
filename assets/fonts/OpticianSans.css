@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Optician Sans';
+	src: url('./OpticianSans/Optician-Sans.woff2') format('woff2')
+		url('./OpticianSans/Optician-Sans.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
