@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'Frick';
-	src: url('./Frick/fonts/Frick0.3-Regular.woff2') format('woff2')
-		url('./Frick/fonts/Frick0.3-Regular.woff') format('woff');
+	src: url('/assets/fonts/Frick/Frick0.3-Regular.woff2') format('woff2')
+		url('/assets/fonts/Frick/Frick0.3-Regular.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
 	font-family: 'Frick Condensed';
-	src: url('./Frick/fonts/Frick0.3-Condensed.woff2') format('woff2')
-		url('./Frick/fonts/Frick0.3-Condensed.woff') format('woff');
+	src: url('/assets/fonts/Frick/Frick0.3-Condensed.woff2') format('woff2')
+		url('/assets/fonts/Frick/Frick0.3-Condensed.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
