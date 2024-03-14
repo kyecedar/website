@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'FUNGIS';
-	src: url('/assets/fonts/FUNGIS/FUNGIS\ Regular.woff2') format('woff2')
-		url('/assets/fonts/FUNGIS/FUNGIS\ Regular.woff') format('woff');
+	src: url('https://github.com/kyecedar/website/raw/main/assets/fonts/FUNGIS/FUNGIS%20Regular.woff2') format('woff2')
+		url('https://github.com/kyecedar/website/raw/main/assets/fonts/FUNGIS/FUNGIS%20Regular.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
 	font-family: 'FUNGIS';
-	src: url('/assets/fonts/FUNGIS/FUNGIS\ Bold.woff2') format('woff2')
-		url('/assets/fonts/FUNGIS/FUNGIS\ Bold.woff') format('woff');
+	src: url('https://github.com/kyecedar/website/raw/main/assets/fonts/FUNGIS/FUNGIS%20Bold.woff2') format('woff2')
+		url('https://github.com/kyecedar/website/raw/main/assets/fonts/FUNGIS/FUNGIS%20Bold.woff') format('woff');
 	font-weight: bold;
 	font-style: normal;
 	font-display: swap;
@@ -18,8 +18,8 @@
 
 @font-face {
 	font-family: 'FUNGIS';
-	src: url('/assets/fonts/FUNGIS/FUNGIS\ Heavy.woff2') format('woff2')
-		url('/assets/fonts/FUNGIS/FUNGIS\ Heavy.woff') format('woff');
+	src: url('https://github.com/kyecedar/website/raw/main/assets/fonts/FUNGIS/FUNGIS%20Heavy.woff2') format('woff2')
+		url('https://github.com/kyecedar/website/raw/main/assets/fonts/FUNGIS/FUNGIS%20Heavy.woff') format('woff');
 	font-weight: bolder;
 	font-style: normal;
 	font-display: swap;
